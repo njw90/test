@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-feature
-=======
-test
-feature...
->>>>>>> branch 'feature/cart' of https://github.com/njw90/test.git
+whole new feature
